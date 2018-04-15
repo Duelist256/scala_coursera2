@@ -1,0 +1,50 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala, C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\test\Heap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala, C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\test\Heap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala, C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\test\Heap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala, C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\test\Heap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\target\scala-2.11\test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.11.12[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.11.12[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1e026f39, interfacing (CompilerInterface) with Scala compiler version 2.11.12[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes;C:\Users\Duelist\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\target\scala-2.11\test-classes;C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\target\scala-2.11\classes;C:\Users\Duelist\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar;C:\Users\Duelist\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.11\1.0.2\scala-parser-combinators_2.11-1.0.2.jar;C:\Users\Duelist\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-sbt\test-interface\1.0\test-interface-1.0.jar;C:\Users\Duelist\.coursier\cache\v1\https\repo1.maven.org\maven2\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;C:\Users\Duelist\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scalacheck\scalacheck_2.11\1.12.1\scalacheck_2.11-1.12.1.jar;C:\Users\Duelist\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\Duelist\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar;C:\Users\Duelist\.coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.10\junit-4.10.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 3.190004208 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	arbHeap, unconstrainedEquality, convertToEqualizer, generatorDrivenConfig.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\test\Heap.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\test\Heap.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\test\Heap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Including C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala by C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\test\Heap.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\test\Heap.scala, C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\test\Heap.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, curried, x, wait, copy$default$2, $asInstanceOf, empty, Bogus1BinomialHeap, insert, root, productArity, equals, Rank, Bogus4BinomialHeap, asInstanceOf, Bogus2BinomialHeap, rank, synchronized, deleteMin, A, Bogus5BinomialHeap, $isInstanceOf, Node, tupled, canEqual, productPrefix, notifyAll, isInstanceOf, ins, <init>, apply, ==, clone, link, $init$, copy$default$3, copy, meld, toString, H, !=, c, BinomialHeap, getClass, copy$default$1, r, isEmpty, Bogus3BinomialHeap, ne, findMin, eq, productIterator, ord, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\Duelist\IdeaProjects\Scala\scala_coursera2\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala: Set(Bogus1BinomialHeap, Bogus4BinomialHeap, Bogus2BinomialHeap, Bogus5BinomialHeap, <init>, BinomialHeap, Bogus3BinomialHeap)[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
