@@ -1,7 +1,377 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fe6b1fd-659a-48bc-9990-17d1fa935f75" name="Default" comment="" />
+    <list default="true" id="8fe6b1fd-659a-48bc-9990-17d1fa935f75" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/hydra.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalacheck_scalacheck_2_11_1_12_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assignment.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/CommonBuild.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/Courses.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/GradingFeedback.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/ScalaTestRunner.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/Settings.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/StudentBuild.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/StudentBuildLike.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/StyleChecker.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/build.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/buildSettings.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$1621079ec5555fed77ae$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$1621079ec5555fed77ae.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$1621079ec5555fed77ae.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$68b1d6b64b58c8380ed6$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$68b1d6b64b58c8380ed6$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$68b1d6b64b58c8380ed6.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$68b1d6b64b58c8380ed6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$6ba029c77f48d1eaf84f$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$6ba029c77f48d1eaf84f$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$6ba029c77f48d1eaf84f.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$6ba029c77f48d1eaf84f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$720121c7a132231e7340$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$720121c7a132231e7340$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$720121c7a132231e7340.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$720121c7a132231e7340.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$87994de5143461bd9d2b$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$87994de5143461bd9d2b$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$87994de5143461bd9d2b.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$87994de5143461bd9d2b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$9f474145f6223b4a217c$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$9f474145f6223b4a217c.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$9f474145f6223b4a217c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$f8f07f2bf911117439ba$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$f8f07f2bf911117439ba.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$f8f07f2bf911117439ba.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$08603abce41329fed04d$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$08603abce41329fed04d$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$08603abce41329fed04d.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$08603abce41329fed04d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$0acb10c5f133fec6ae77$$anonfun$$sbtdef$1$$anonfun$apply$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$0acb10c5f133fec6ae77$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$0acb10c5f133fec6ae77$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$0acb10c5f133fec6ae77.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$0acb10c5f133fec6ae77.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$116d4440d9cc89093e2c$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$116d4440d9cc89093e2c$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$116d4440d9cc89093e2c.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$116d4440d9cc89093e2c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4fbb9a5e93c40505f292$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4fbb9a5e93c40505f292$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4fbb9a5e93c40505f292.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4fbb9a5e93c40505f292.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$52907e052962b7f8cc89$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$52907e052962b7f8cc89$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$52907e052962b7f8cc89.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$52907e052962b7f8cc89.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7dc8772919bbe5baef64$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7dc8772919bbe5baef64$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7dc8772919bbe5baef64.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7dc8772919bbe5baef64.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$89fe0d152c5e0575ff93$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$89fe0d152c5e0575ff93$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$89fe0d152c5e0575ff93.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$89fe0d152c5e0575ff93.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9114f2afe2c246d9d93d$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9114f2afe2c246d9d93d$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9114f2afe2c246d9d93d.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$9114f2afe2c246d9d93d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c0c0798634baa6c599a3$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c0c0798634baa6c599a3$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c0c0798634baa6c599a3.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c0c0798634baa6c599a3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c10d242ed0d891ff18bf$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c10d242ed0d891ff18bf$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c10d242ed0d891ff18bf.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c10d242ed0d891ff18bf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Assignment$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Assignment.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/AssignmentInfo$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/AssignmentInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonBuild$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonBuild.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CourseraId$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CourseraId.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Courses$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Courses.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingSummary$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingSummary.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/MapMapString$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/MapMapString.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anon$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$11.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$12.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$13.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$14.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Settings$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Settings.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuild$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuild.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$12$$anonfun$apply$10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$12$$anonfun$apply$9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$12.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleCheck$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleCheck.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$CustomTextOutput.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/quickcheck-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/quickcheck-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-compile-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-compile.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-docs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-optional.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-plugin.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-provided.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-runtime-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-runtime.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-scala-tool.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-sources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-test-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-quickcheck-build-test.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.xsl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scalastyle/scalastyle_config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/common/package.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/quickcheck/Heap.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/quickcheck/QuickCheckSuite.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/quickcheck/test/Heap.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/common/package$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/common/package.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/BinomialHeap$Node$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/BinomialHeap$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Bogus1BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Bogus1BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Bogus2BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Bogus2BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Bogus3BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Bogus3BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Bogus4BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Bogus4BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Bogus5BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Bogus5BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/Heap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/IntHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/IntHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$11.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$12.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$13.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$14.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$15.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$16.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$17.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$18.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$19.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$20.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$21.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$arbHeap$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$genHeap$1$$anonfun$apply$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$genHeap$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/quickcheck/QuickCheckHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/progfun2-quickcheck_2.11-0.1-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckBinomialHeap$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckBinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$1$$anon$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$2$$anon$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$3$$anon$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$4$$anon$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$5$$anon$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$6$$anon$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite$$anonfun$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/QuickCheckSuite.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/BinomialHeap$Node$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/BinomialHeap$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/Bogus1BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/Bogus1BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/Bogus2BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/Bogus2BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/Bogus3BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/Bogus3BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/Bogus4BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/Bogus4BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/Bogus5BinomialHeap$class.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/quickcheck/test/Bogus5BinomialHeap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/coursierArtifacts/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/coursierClassifiersArtifacts/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/coursierResolutions/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/submit/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/inputs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/output" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/definedTestNames/data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/discoveredMainClasses/data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/compile/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/copyResources/$global/streams/copy-resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/copyResources/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/exportedProducts/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/fullClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/loadedTestFrameworks/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -63,6 +433,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -92,6 +465,7 @@
     <option name="width" value="976" />
     <option name="height" value="549" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -446,7 +820,7 @@
       <option name="presentableId" value="Default" />
       <updated>1523742034344</updated>
       <workItem from="1523742036602" duration="3258000" />
-      <workItem from="1523793893189" duration="6751000" />
+      <workItem from="1523793893189" duration="6823000" />
     </task>
     <servers />
   </component>
@@ -483,7 +857,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10009000" />
+    <option name="totallyTimeSpent" value="10081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -498,7 +872,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3687031" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
